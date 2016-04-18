@@ -16,7 +16,7 @@ package com.mycompany.sharepark.entidades;
  * @author 2096904
  */
 
-public class carro extends Vehiculo {
+public class Carro extends Vehiculo {
 
 
 }

@@ -9,7 +9,7 @@ package com.mycompany.sharepark.entidades;
  *
  * @author estudiante
  */
-public class conjunto {
+public class Conjunto {
     
     private int codigo;
     private String nombre;

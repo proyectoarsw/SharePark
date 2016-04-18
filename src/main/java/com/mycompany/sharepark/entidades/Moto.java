@@ -9,6 +9,6 @@ package com.mycompany.sharepark.entidades;
  *
  * @author estudiante
  */
-public class moto extends Vehiculo {
+public class Moto extends Vehiculo {
     
 }

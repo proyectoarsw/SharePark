@@ -12,7 +12,7 @@ import java.util.Date;
  *
  * @author estudiante
  */
-public class agenda {
+public class Agenda {
     private Date inicio_horario;
     private Date fin_horario;
     private ArrayList horarios_libres;

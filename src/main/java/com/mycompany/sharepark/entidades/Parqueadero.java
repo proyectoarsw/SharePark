@@ -9,7 +9,7 @@ package com.mycompany.sharepark.entidades;
  *
  * @author 2096904
  */
-public class parqueadero {
+public class Parqueadero {
     
     private int codigo;
     private int codigoUsuario;
